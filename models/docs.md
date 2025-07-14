@@ -9,3 +9,13 @@
 | returned       | Item has been returned                           |
 
 {% enddocs %}
+
+{% docs payment_method %}
+    
+One of the following:
+- Credit card
+- Coupon
+- Bank transfer
+- Gift card
+
+{% enddocs %}
